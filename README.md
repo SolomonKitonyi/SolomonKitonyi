@@ -6,6 +6,7 @@
 - 📫 How to reach me: ...kitonyisolomon@gmail.com
 - 😄 Pronouns: ...Him/He
 - ⚡ Fun fact: ...I love typing
+<br/>
 
 ![SolomonKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=SolomonKitonyi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 
