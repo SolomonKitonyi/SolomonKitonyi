@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=SolomonKitonyi&color=blue);
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
-
+<a href="https://www.linkedin.com/in/solomon-kitonyi-b971b7203/">
 
 **languages and tools:**
 <br/>
@@ -24,7 +24,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/solomon-kitonyi-b971b7203/">
 <img align="left" alt="SolomonKitonyi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
