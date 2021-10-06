@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/solomon-kitonyi-b971b7203/">
   
   <img align="left" alt="SolomonKitonyi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <br/><br/>
 
 **languages and tools:**
 <br/>
