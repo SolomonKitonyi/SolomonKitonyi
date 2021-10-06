@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SolomonKitonyi&color=blue) 
 ### Hi there 👋 I am Associate FullStack Software Engineer(MongoDB/Express/React/Node).
 - 🔭 I’m currently working on ...Mern Stack Ecomerce Application
 - 🌱 I’m currently learning ... NextJS, React-Redux-Testing and CSS for experts
@@ -6,6 +5,8 @@
 - 📫 How to reach me: ...kitonyisolomon@gmail.com
 - 😄 Pronouns: ...Him/He
 - ⚡ Fun fact: ...I love typing;
+
+![](https://komarev.com/ghpvc/?username=SolomonKitonyi&color=blue) 
 
 **languages and tools:**
 <br/>
