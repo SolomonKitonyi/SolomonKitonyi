@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-![SolomonKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=SolomonKitony&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+![SolomonKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=SolomonKitonyi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 
 <center>
 <table>
