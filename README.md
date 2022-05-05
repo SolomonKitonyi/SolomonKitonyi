@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Associate FullStack Software Engineer(MongoDB/Express/React/Node).
-- 🔭 I’m currently working on ...Mern Stack Ecomerce Application
+- 🔭 I’m currently working on ...React Redux ToolKit
 - 🌱 I’m currently learning ... NextJS, React-Redux-Testing and CSS for experts
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...kitonyisolomon@gmail.com
